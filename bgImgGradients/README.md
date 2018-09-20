@@ -16,7 +16,7 @@ HTMl:
 P.S For cover the Image to linear gradient
 
 #### Keys:
-  1.Using CSS {position: absolute} property to put Image on the (div class="gradientDiv").
+  1.Using CSS {position: absolute} property to put Image on the (div class="gradientDiv").<br>
   2.setting the {z-index} property.
 
 Using Color selector:
