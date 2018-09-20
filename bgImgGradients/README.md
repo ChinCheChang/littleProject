@@ -14,8 +14,10 @@ HTMl:
 ```
 
 P.S For cover the Image to linear gradient
-Key: 1.Using CSS {position: absolute} property to put Image on the <div class="gradientDiv">.
-     2.setting the {z-index} property.
+
+#### Keys:
+  1.Using CSS {position: absolute} property to put Image on the <div class="gradientDiv">.
+  2.setting the {z-index} property.
 
 Using Color selector:
 <input type="color" id="color1" value="#ff0000">
