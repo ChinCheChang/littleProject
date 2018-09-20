@@ -3,6 +3,7 @@ you can use color selector to change the colors of line gradients
 or you can press random button to change color with random colors
 
 HTMl:
+```script
 <div class="gradientDiv"> // Background line gradients
   <div class="backgroundImg"> //Add background Image here
   </div>
@@ -10,6 +11,7 @@ HTMl:
     ... //other contents
   </div>
 </div>
+```
 
 P.S For cover the Image to linear gradient
 Key: 1.Using CSS {position: absolute} property to put Image on the <div class="gradientDiv">.
