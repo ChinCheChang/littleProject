@@ -40,9 +40,3 @@ const HexOrRgb = (input) => {
 const showColor = () => {
   alert(HexOrRgb(document.getElementById('color').value));
 }
-
-
-//console.log(HexOrRgb("fff"));
-//alert( rgbToHex(0, 51, 255) ); // #0033ff
-//console.log(rgbToHex(0, 51, 255));
-//console.log(((1 << 24) + (0 << 16) + (51 << 8) + 255).toString(16));
