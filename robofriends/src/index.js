@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Hello from './Hello';
-//import App from './App';
+import Card from './Card';
+import 'tachyons';
 import registerServiceWorker from './registerServiceWorker';
 
-ReactDOM.render(<Hello />, document.getElementById('root'));
+ReactDOM.render(<Card />, document.getElementById('root'));
 registerServiceWorker();
